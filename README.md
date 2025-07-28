@@ -1,15 +1,32 @@
-# 👋 Hi, I'm Ng Trí
-I'm a backend developer with 10+ years of experience in Java, Spring Boot, and system architecture. Passionate about clean code, security, and building scalable systems.
+<h1 align="center">Hi there 👋, I'm Triet</h1>
 
-## 🛠️ Tech Stack
-- 🔙 Backend: Java, Spring Boot, Hibernate
-- 🧱 Database: SQL Server, PostgreSQL, MongoDB
-- 🔐 Auth: JWT, OAuth2
-- ☁️ DevOps: Docker, GitHub Actions
+<p align="center">
+  A passionate frontend developer from Vietnam 🇻🇳<br>
+  Mainly working with <b>ReactJS</b> ⚛️<br>
+  Exploring backend with <b>Java Spring Boot</b> ☕
+</p>
 
-## 📈 GitHub Stats
-![Ng Trí's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtrie&show_icons=true&theme=tokyonight)
+---
 
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+### 🔧 Tech Stack
+
+- 💻 Frontend: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+- 🔙 Backend (learning): ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+- 🌐 Others: HTML, CSS, JavaScript, Git, REST API
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trietnpse180186&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trietnpse180186&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Contact me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
