@@ -28,5 +28,4 @@
 
 ### 📫 Contact me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- 📧 Email: trietnpse180186@fpt.edu.vn
