@@ -6,6 +6,14 @@
 </p>
 
 ---
+### 👨‍💻 About Me
+
+- 💻 I mainly develop **frontend applications using ReactJS**.
+- 🌱 I’m also exploring **Java Spring Boot** for backend development.
+- 📚 Always eager to learn and grow with new technologies.
+- 🤝 I’m open to collaboration on frontend projects and fullstack ideas.
+
+---
 
 ### 🧰 Tech Stack
 
@@ -34,8 +42,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:trietnpse180186@fpt.edu.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- Add more if you want: Facebook, Medium, etc. -->
 </p>
 
