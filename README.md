@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Ng Trí
+I'm a backend developer with 10+ years of experience in Java, Spring Boot, and system architecture. Passionate about clean code, security, and building scalable systems.
 
-<!--
-**trietnpse180186/trietnpse180186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- 🔙 Backend: Java, Spring Boot, Hibernate
+- 🧱 Database: SQL Server, PostgreSQL, MongoDB
+- 🔐 Auth: JWT, OAuth2
+- ☁️ DevOps: Docker, GitHub Actions
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Ng Trí's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtrie&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
