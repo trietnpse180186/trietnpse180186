@@ -1,9 +1,8 @@
-<h1 align="center" color="#00A8E8">Hi , I'm Triet Ngo</h1>
+<h1 align="center" color=00A8E8>Hi , I'm Triet Ngo</h1>
 <h3 align="center">A passionate Frontend & Mobile App Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=React+Developer;Mobile+App+Developer;NodeJS+Explorer;Open+to+Collaborate+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=React+Developer;Spring+Boot+Explorer;Lifelong+Learner+%F0%9F%93%9A;Open+to+Collaborate+%F0%9F%91%8B" alt="Typing SVG" /></p>
 
 ---
 
