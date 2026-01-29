@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Triet Ngo</h1>
+<h1 align="center">Hi , I'm Triet Ngo</h1>
 <h3 align="center">A passionate Frontend & Mobile App Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
@@ -7,16 +7,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 📱 I specialize in **Frontend** and **Mobile App Development** (React Native).
-- ⚙️ Currently building applications with **NodeJS, Express, and MongoDB**.
-- 🚀 Exploring the MERN stack and cross-platform mobile solutions.
-- ⚡ Committed to writing clean, maintainable, and efficient code.
+-  I specialize in **Frontend** and **Mobile App Development** (React Native).
+-  Currently building applications with **NodeJS, Express, and MongoDB**.
+-  Exploring the MERN stack and cross-platform mobile solutions.
+-  Committed to writing clean, maintainable, and efficient code.
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
@@ -35,17 +35,17 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trietnpse180186&show_icons=true&theme=vivid&hide_border=false&icon_color=000000&text_color=000000&title_color=000000" alt="Triet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trietnpse180186&show_icons=true&theme=tokyonight&hide_border=false" alt="Triet's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trietnpse180186&layout=compact&theme=vivid&hide_border=false&text_color=000000&title_color=000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trietnpse180186&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="mailto:trietnpse180186@fpt.edu.vn">
@@ -58,4 +58,4 @@
 
 ---
 
-<p align="center">Thanks for visiting my profile ❤️</p>
+<p align="center">Thanks for visiting my profile </p>
